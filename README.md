@@ -32,7 +32,7 @@
 ---
 ## :hash: GitHub Analytics
 <p align="center">
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedMa3&show_icons=true&theme=chartreuse-dark&cache_seconds=3000&locale=en&count_private=true&include_all_commits=true" alt="SyedMa3" />
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedMa3&show_icons=true&theme=chartreuse-dark&cache_seconds=3000&locale=en" alt="SyedMa3" />
   </a>
   <a><img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMa3&count_private=true&include_all_commits=true&theme=chartreuse-dark&layout=compact">
   </a>  
