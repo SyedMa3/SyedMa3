@@ -6,8 +6,10 @@
 </p>
 
 ## :technologist: About Me
-- :man_student: I’m currently a student pursuing my Bachelors in Computer Science and Engineering from IIT Palakkad
+- :man_student: I’m currently a 3rd year student pursuing my Bachelors in Computer Science and Engineering from IIT Palakkad
 - :man_juggling: I’m currently exploring everything but passionate about Computer Vision, Web Development.
+- :mag: Ambitious to learn the intricacies of a source code.
+- :triangular_flag_on_post: I do CTFs for fun
 
 ---
 ## :keyboard: Tech Stack
